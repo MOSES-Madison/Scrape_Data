@@ -16,11 +16,11 @@ This hold files to both download from both the Sheriff's page and CCAP/DOC
     - This file will have the charges including modifiers.  If the case is closed it also extracts data about the sentence. 
 
     
-### QuinnMHTML.py
+### MHTML_getter.py
 - This is the program that searches CCAP for specific types of cases (now battery in Dane County), expands the charges and then downloads them as .mhtml files. 
 Using .mhtml files leaves us with files that are both easily readable by both humans and machines. 
 
-### Quinn_mhtml_READ_ME.docx
+### MHTML_getter_README.docx
 - Documentation for QuinnMHTML.py
 
 ### README.md
